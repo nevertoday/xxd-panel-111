@@ -29,6 +29,15 @@ Some photographs matter because of a relationship, the feel of clothing, or a qu
 
 It addresses filters with no tactile character, collages overloaded with material, handmade styling that feels cheap, and central relationships lost under decoration.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -44,20 +53,6 @@ The Chinese file preserves the original prompt verbatim and is the sole runtime 
 | Keep a photograph's warmth without another filter? | Reality stays visible while the paired half is sewn from fabric, frayed edges, and stitches. |
 | Avoid a crowded material collage? | One core relationship becomes a small seal with generous breathing room. |
 | Handmade character without craft-store decoration? | Two to four source colours, tactile fibres, and restrained stitching create an editorial result. |
-
-## Transformation logic
-
-```text
-read the core theme and relationship → remove irrelevant detail → distil structure and memory cues → rebuild with fabric pieces, frayed edges, and stitches → finish a small seal with generous whitespace
-```
-
-## Recognisable finished traits
-
-- Reality and textile translation share one complete canvas; paired modes are exact 50:50 with no third band.
-- The transformed side keeps only the structure, movement, and relationship that identify the source; it does not trace every object or fill the background.
-- Cotton/linen fibres, loose threads, frayed edges, irregular cuts, blanket stitches, and slight misregistration are tactile material—not digital stickers.
-- Colours are distilled from two to four of the current photograph's most vital hues and balanced with a pale ground cloth.
-- Type is sparse and editorial; the subject may be offset, clipped, floating, or edge-bound so whitespace participates in the composition.
 
 ## Full capabilities and boundaries
 
