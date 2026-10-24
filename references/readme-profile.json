@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 111｜Textile Collage Chronicle: remakes the core subject and mood of a photo as a hand-sewn textile collage — a few large fabric pieces, appliqué with raw edges, layered cut cloth and a little embroidery, simple silhouettes and positive and negative shapes, visible hand stitching, cotton and linen fibres, fraying and slight misalignment, the subject kept small like a stitched seal, set off-centre, against an edge or floating within a large pale base cloth, two to four lively colours from the photo (sky blue, lake teal, leaf green, cream yellow, apricot, coral, soft pink), and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-111 or asks for appliqué, fabric collage, stitched textile or embroidery-style art from a photo.",
+  "short_description": "纺织拼贴志：把照片缝成一枚小小的贴布拼贴，布片鲜活、针迹清楚、留白很多",
+  "zh-CN": {
+    "name": "纺织拼贴志",
+    "tagline": "把照片里最值得记住的关系，缝成一枚有温度的布艺拼贴。",
+    "look": "主体被概括成少量大布片和简洁剪影，用贴布绣、毛边贴布、层叠布片和少量刺绣缝出来，能看到棉麻纤维、抽丝、不规则剪裁和明显的手缝针迹。主体尺度小，像一枚缝上去的章印，偏心、贴边或悬在画面里，周围是大片浅色底布留白。布料颜色只取照片里二到四种最有生活温度的颜色，调成天空蓝、草木绿、奶油黄、杏橙、珊瑚红这类鲜活柔软的色。文字只有几个字或一短句，安静地放在留白或布片旁。",
+    "traits": ["选择性记忆", "贴布绣拼贴", "显性针迹", "鲜活布料色", "小尺度章印", "大面积留白"],
+    "good": [
+      "主体剪影简单清楚的照片：一只猫、一座小房子、一棵树、一把椅子",
+      "带温暖生活感的瞬间：抱着孩子的人、晾衣服的阳台、窗边的花",
+      "想做成布艺感头像、礼物卡片或家居海报的照片"
+    ],
+    "poor": [
+      "细节密集、需要逐物还原的照片：街景全景、机械、文字很多的招牌",
+      "颜色暗沉、靠陈旧氛围取胜的照片，布色会被调得更鲜活",
+      "想要满版画面、卡通、3D 或写实效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Textile Collage Chronicle",
+    "tagline": "Sews the most memorable relationship in a photo into a small, warm fabric collage.",
+    "look": "The subject is summed up as a few large fabric pieces and simple silhouettes, stitched as appliqué with raw edges, layered cloth and a little embroidery, showing cotton and linen fibres, fraying, uneven cuts and clear hand stitches. It is kept small, like a sewn-on seal, placed off-centre, against an edge or floating, with a large pale base cloth left open around it. The fabric colours are just two to four of the photo's warmest, liveliest colours, turned into soft, fresh shades like sky blue, leaf green, cream yellow, apricot and coral. Text is only a few words or a short line, resting quietly in the space or beside a piece of cloth.",
+    "traits": ["Selective memory", "Appliqué collage", "Visible stitches", "Lively fabric colours", "Small seal-like motif", "Wide whitespace"],
+    "good": [
+      "Photos with a simple, clear silhouette: a cat, a small house, a tree, a chair",
+      "Warm everyday moments: someone holding a child, laundry on a balcony, flowers by a window",
+      "Photos you want as a textile-style avatar, gift card or home poster"
+    ],
+    "poor": [
+      "Detail-dense photos that need everything kept: street panoramas, machinery, signs full of text",
+      "Dark photos that rely on a worn, faded mood, since the fabric colours are made livelier",
+      "Requests for a filled frame, cartoons, 3D or a realistic look"
+    ]
+  },
+  "ja": {
+    "name": "テキスタイル・コラージュ誌",
+    "tagline": "写真でいちばん覚えておきたい関係を、ぬくもりのある小さな布のコラージュに縫い上げます。",
+    "look": "主役は少数の大きな布片とシンプルなシルエットにまとめられ、切りっぱなしのアップリケ、重ねた布、少しの刺繍で縫い表されます。綿や麻の繊維、ほつれ、不揃いな裁ち方、はっきりした手縫いの針目が見えます。主役は縫い付けた印章のように小さく、中心を外したり端に寄せたり浮かせたりして、まわりは淡い土台布の広い余白です。布の色は写真の中で暮らしのぬくもりがある二〜四色だけで、空色、草木の緑、クリームイエロー、アプリコット、コーラルのような生き生きと柔らかな色に整えます。文字は数語か短い一行だけで、余白や布片のそばに静かに置かれます。",
+    "traits": ["選んで残す記憶", "アップリケのコラージュ", "見える針目", "生き生きした布の色", "小さな印章のような主役", "広い余白"],
+    "good": [
+      "シルエットがシンプルではっきりした写真：猫、小さな家、一本の木、椅子",
+      "ぬくもりのある日常の瞬間：子どもを抱く人、洗濯物のあるベランダ、窓辺の花",
+      "布の質感のアイコン、ギフトカード、インテリアポスターにしたい写真"
+    ],
+    "poor": [
+      "細部が詰まっていてすべて残したい写真：街並みのパノラマ、機械、文字の多い看板",
+      "色が暗く、古びた雰囲気で見せる写真（布の色はより生き生きと調整されます）",
+      "画面いっぱいの絵、カートゥーン、3D、写実的な仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "텍스타일 콜라주 기록",
+    "tagline": "사진에서 가장 기억하고 싶은 관계를 따뜻한 작은 천 콜라주로 꿰매 냅니다.",
+    "look": "주인공은 적은 수의 큰 천 조각과 단순한 실루엣으로 요약되어, 올이 풀린 아플리케, 겹친 천, 약간의 자수로 꿰매집니다. 면과 리넨 섬유, 올 풀림, 고르지 않은 재단, 뚜렷한 손바느질 땀이 보입니다. 주인공은 꿰매 붙인 도장처럼 작게, 중심에서 비켜나거나 가장자리에 붙거나 떠 있으며, 주위는 연한 바탕천의 넓은 여백입니다. 천의 색은 사진에서 생활의 온기가 느껴지는 두 가지에서 네 가지뿐이며, 하늘색, 풀빛 초록, 크림 옐로, 살구, 코럴처럼 생기 있고 부드러운 색으로 다듬습니다. 글자는 몇 단어나 짧은 한 줄뿐이고, 여백이나 천 조각 옆에 조용히 놓입니다.",
+    "traits": ["골라 남긴 기억", "아플리케 콜라주", "드러난 바늘땀", "생기 있는 천 색", "작은 도장 같은 주인공", "넓은 여백"],
+    "good": [
+      "실루엣이 단순하고 분명한 사진: 고양이, 작은 집, 나무 한 그루, 의자",
+      "따뜻한 일상의 순간: 아이를 안은 사람, 빨래가 걸린 발코니, 창가의 꽃",
+      "천 느낌의 프로필, 선물 카드, 인테리어 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 빽빽해 모두 살려야 하는 사진: 거리 파노라마, 기계, 글자가 많은 간판",
+      "색이 어둡고 낡은 분위기가 핵심인 사진(천 색이 더 생기 있게 바뀝니다)",
+      "화면을 꽉 채운 그림, 카툰, 3D, 사실적 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجلّ الكولاج النسيجي",
+    "tagline": "يخيط أكثر علاقة جديرة بالتذكر في الصورة كولاجاً صغيراً دافئاً من القماش.",
+    "look": "يُلخَّص العنصر في بضع قطع قماش كبيرة وظلال بسيطة، مخيطة كتطريز تطبيقي بحواف غير مثنية وطبقات من القماش وقليل من التطريز، فتظهر ألياف القطن والكتان والخيوط المنسلّة والقص غير المنتظم وغرز اليد الواضحة. يبقى العنصر صغيراً كختم مخيط، منزاحاً عن المركز أو ملاصقاً لحافة أو طافياً، تحيط به مساحة واسعة مفتوحة من قماش الأساس الفاتح. ألوان القماش اثنان إلى أربعة فقط من أدفأ ألوان الصورة وأكثرها حيوية، تتحول إلى درجات ناعمة نضرة كالأزرق السماوي والأخضر الورقي والأصفر الكريمي والمشمشي والمرجاني. النص بضع كلمات أو سطر قصير فقط، يستقر بهدوء في الفراغ أو بجانب قطعة قماش.",
+    "traits": ["ذاكرة انتقائية", "كولاج تطريز تطبيقي", "غرز ظاهرة", "ألوان قماش حيوية", "عنصر صغير كالختم", "فراغ واسع"],
+    "good": [
+      "صور بظل بسيط واضح: قطة، بيت صغير، شجرة، كرسي",
+      "لحظات يومية دافئة: شخص يحمل طفلاً، غسيل على شرفة، زهور قرب نافذة",
+      "صور تريدها صورة شخصية بطابع القماش أو بطاقة هدية أو ملصقاً منزلياً"
+    ],
+    "poor": [
+      "صور كثيفة التفاصيل يجب الإبقاء على كل ما فيها: بانوراما الشوارع، الآلات، اللافتات المليئة بالنصوص",
+      "الصور الداكنة التي تقوم على جو باهت قديم، إذ تُجعل ألوان القماش أكثر حيوية",
+      "طلب إطار مملوء أو كرتون أو ثلاثي الأبعاد أو مظهر واقعي"
+    ]
+  }
+}
